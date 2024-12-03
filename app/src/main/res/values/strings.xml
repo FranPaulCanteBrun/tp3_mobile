@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App_TP3</string>
+    <string name="nombre">Nombre</string>
+    <string name="ver">Ver</string>
+    <string name="guardar">Guardar</string>
+    <string name="edad">Edad</string>
+    <string name="usuarios_guardados">Usuarios guardados</string>
+</resources>
